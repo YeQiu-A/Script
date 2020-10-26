@@ -1,0 +1,5 @@
+# > emby体验服
+DOMAIN-SUFFIX, emby.xeton.dev
+DOMAIN-SUFFIX, jellyfin.xeton.dev
+DOMAIN-SUFFIX, movie.xeton.dev
+DOMAIN-SUFFIX, servers.xeton.dev
