@@ -10,6 +10,9 @@
 # >>> 京东京豆变动 {09:00}
 京豆变动通知 = type=cron, cronexp="0 0 9 * * *", wake-system=1, timeout=600, script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_bean_change.js
 
+# > 自动提交互助码 {每月的1号,10号,20号的02:02}
+自动提交互助码 = type=cron, cronexp="2 2 1,10,20 *", wake-system=1, timeout=300, script-path=https://raw.githubusercontent.com/whyour/hundun/master/quanx/shareCode-auto.js
+
 # > 游戏京豆系列
 # >>> 兑换类
 # >>>>> 宠汪汪兑换京豆 {07:59 15:59}
