@@ -106,6 +106,9 @@
 # >>>>> 活动入口：首页--秒杀--下拉--狂撒 2 亿京豆
 秒杀红包雨 = type=cron, cronexp="0 10 7 * * *", wake-system=1, timeout=600, script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_ms_redrain.js
 
+# >>> 京东直播
+京东直播 = type=cron,cronexp="10-20/5 12 * * *",wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_live.js
+
 
 # > BoxJs TF 
 # >>> 地址在下方,复制到浏览器打开即可
