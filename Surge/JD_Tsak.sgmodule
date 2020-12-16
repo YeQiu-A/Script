@@ -117,7 +117,7 @@
 直播红包雨 = type=cron,cronexp="0 0,9,11,13,15,17,19,20,21,23 * * *",wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_live_redrain.js
 
 # >>> 超级直播间红包雨
-超级直播间红包雨 = type=cron,cronexp="30 20-23/1 * * *",wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_live_redrain2.js
+超级直播间红包雨 = type=cron,cronexp="30 20-23/1 * * *",wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/activity/jd_live_redrain2.js
 
 
 # > BoxJs TF 
