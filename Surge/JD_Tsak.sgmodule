@@ -34,7 +34,7 @@
 
 东东农场 = type=cron, cronexp="5 6-18/6 * * *", wake-system=1, timeout=600, script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_fruit.js
 
-种豆得豆 = type=cron, cronexp="57 */2 * * *", wake-system=1, timeout=600, script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_plantBean.js
+种豆得豆 = type=cron, cronexp="* */2 * * *", wake-system=1, timeout=600, script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_plantBean.js
 
 东东超市 = type=cron, cronexp="11 1-23/5 * * *", wake-system=1, timeout=600, script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_superMarket.js
 
@@ -52,8 +52,6 @@
 
 东东小窝 = type=cron,cronexp="16 0 * * *", wake-system=1, timeout=600, script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_small_home.js
 
-十元街 = type=cron, cronexp="15 0 * * *", wake-system=1, timeout=600, script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_syj.js
-
 京东快递签到 = type=cron, cronexp="30 10 0 * * *", wake-system=1, timeout=600, script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_kd.js
 
 京东代属 = type=cron, cronexp="30 9 7 * * *", wake-system=1, timeout=600, script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_ds.js
@@ -68,7 +66,7 @@
 
 京东赚赚 = type=cron,cronexp="30 0 0 * * *",wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_jdzz.js
 
-京东看一看 = type=cron,cronexp="10-20/10 9,10 * * *",wake-system=1,timeout=2120,script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_watch.js
+#京东看一看 = type=cron,cronexp="10-20/10 9,10 * * *",wake-system=1,timeout=2120,script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_watch.js
 
 排行榜 = type=cron,cronexp="0 13 9 * * *", wake-system=1, timeout=600, script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_rankingList.js
 
