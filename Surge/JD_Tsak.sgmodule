@@ -85,3 +85,10 @@
 工业品爱消除 = type=cron,cronexp="30 1 * * *",wake-system=1,timeout=600,script-path=https://raw.githubusercontent.com/shylocks/Loon/main/jd_gyec.js
 
 京东秒秒币 = type=cron,cronexp="1 7 * * *",wake-system=1,timeout=600,script-path=https://raw.githubusercontent.com/shylocks/Loon/main/jd_ms.js
+
+宝洁美发屋 = type=cron,cronexp="1 8,9 14-31/1 1 *",wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/shylocks/Loon/main/jd_bj.js
+
+京东炸年兽🧨 = type=cron,cronexp="0 8,9,10 * * *",wake-system=1,timeout=22200,script-path=https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_nian.js
+
+京东收🧨 = type=cron,cronexp="20 * * * *",wake-system=1,timeout=200,script-path=https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_nianCollect.js
+
