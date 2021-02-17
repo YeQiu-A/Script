@@ -1,5 +1,13 @@
-# > emby体验服
+# > Emby公益服
+
+DOMAIN-SUFFIX, emby-cf.plusmedia.site
 DOMAIN-SUFFIX, emby.xeton.dev
 DOMAIN-SUFFIX, jellyfin.xeton.dev
 DOMAIN-SUFFIX, movie.xeton.dev
 DOMAIN-SUFFIX, servers.xeton.dev
+
+# > MDSS专属服
+DOMAIN-SUFFIX, emby.mdss.cloud
+
+# > Nexitally专属服
+DOMAIN-SUFFIX, emby.Nexitally.com
