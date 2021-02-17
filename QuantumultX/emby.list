@@ -1,0 +1,25 @@
+# > emby公益服
+
+HOST-SUFFIX, emby-cf.plusmedia.site
+HOST-SUFFIX, emby.xeton.dev, Emby
+HOST-SUFFIX, jellyfin.xeton.dev, Emby
+HOST-SUFFIX, movie.xeton.dev, Emby
+HOST-SUFFIX, servers.xeton.dev, Emby
+
+# > MDSS专属服
+HOST-SUFFIX, emby.mdss.cloud, Emby
+
+# > Nexitally专属服
+HOST-SUFFIX, emby.nexitally.com, Emby
+
+# > w8ves专属服
+HOST-SUFFIX, emby.w8ves.co, Emby
+
+# > Maying专属服
+HOST-SUFFIX, emby.maying.club, Emby
+
+# > PrPr专属服
+HOST-SUFFIX, emby.prprcloud.com, Emby
+
+# > FlowerCloud专属服
+HOST-SUFFIX, emby.flowercloud.yt, Emby
