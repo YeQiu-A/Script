@@ -23,3 +23,6 @@ HOST-SUFFIX, emby.prprcloud.com, Emby
 
 # > FlowerCloud专属服
 HOST-SUFFIX, emby.flowercloud.yt, Emby
+
+# > ytoo专属服
+HOST-SUFFIX, emby.ytoo.li, Emby
