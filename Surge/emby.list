@@ -1,13 +1,28 @@
-# > Emby公益服
+# > emby公益服
 
-DOMAIN-SUFFIX, emby-cf.plusmedia.site
-DOMAIN-SUFFIX, emby.xeton.dev
-DOMAIN-SUFFIX, jellyfin.xeton.dev
-DOMAIN-SUFFIX, movie.xeton.dev
-DOMAIN-SUFFIX, servers.xeton.dev
+DOMAIN-KEYWORD,emby-cf.plusmedia.site
+DOMAIN-KEYWORD,emby.xeton.dev
+DOMAIN-KEYWORD,jellyfin.xeton.dev
+DOMAIN-KEYWORD,movie.xeton.dev
+DOMAIN-KEYWORD,servers.xeton.dev
 
 # > MDSS专属服
-DOMAIN-SUFFIX, emby.mdss.cloud
+DOMAIN-KEYWORD,emby.mdss.cloud
 
 # > Nexitally专属服
-DOMAIN-SUFFIX, emby.Nexitally.com
+DOMAIN-KEYWORD,emby.nexitally.com
+
+# > w8ves专属服
+DOMAIN-KEYWORD,emby.w8ves.co
+
+# > Maying专属服
+DOMAIN-KEYWORD,emby.maying.club
+
+# > PrPr专属服
+DOMAIN-KEYWORD,emby.prprcloud.com
+
+# > FlowerCloud专属服
+DOMAIN-KEYWORD,emby.flowercloud.yt
+
+# > ytoo专属服
+DOMAIN-KEYWORD,emby.ytoo.li
