@@ -1,6 +1,6 @@
 # > emby公益服
 
-HOST-SUFFIX, emby-cf.plusmedia.site
+HOST-SUFFIX, emby-cf.plusmedia.site, Emby
 HOST-SUFFIX, emby.xeton.dev, Emby
 HOST-SUFFIX, jellyfin.xeton.dev, Emby
 HOST-SUFFIX, movie.xeton.dev, Emby
